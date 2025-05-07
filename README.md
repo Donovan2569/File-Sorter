@@ -1,2 +1,2 @@
 # File-Sorter
-Sort files from downloads to "Sorted Files" on desktop
+Sort files from downloads to "Sorted Files" folder on desktop
